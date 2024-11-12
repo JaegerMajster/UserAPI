@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repos\\LesJackson.net\\UserAPI\\UserAPI.csproj": {}
+    "E:\\Repos\\LesJackson.net\\UserApi\\UserAPI.csproj": {}
   },
   "projects": {
-    "E:\\Repos\\LesJackson.net\\UserAPI\\UserAPI.csproj": {
+    "E:\\Repos\\LesJackson.net\\UserApi\\UserAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\LesJackson.net\\UserAPI\\UserAPI.csproj",
+        "projectUniqueName": "E:\\Repos\\LesJackson.net\\UserApi\\UserAPI.csproj",
         "projectName": "UserAPI",
-        "projectPath": "E:\\Repos\\LesJackson.net\\UserAPI\\UserAPI.csproj",
+        "projectPath": "E:\\Repos\\LesJackson.net\\UserApi\\UserAPI.csproj",
         "packagesPath": "C:\\Users\\MariuszJaguścik\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\LesJackson.net\\UserAPI\\obj\\",
+        "outputPath": "E:\\Repos\\LesJackson.net\\UserApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

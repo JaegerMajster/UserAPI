@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bpjSa66BdpVLTMHLK3HHLzlDk/z0ZtKV3n6SV6G3jbTzX+tWDva6ccRz2pM2f18A4SmNamd7ZlNpUSGrJH5nZQ==",
+  "dgSpecHash": "jRn8p+kkDsM0pxneDU5H00iX8LkSLPPGSeboDPSDTpSYTncGvqBjoTidpxWm/qh06X8JfhuqcC0vhKB3bWtBaA==",
   "success": true,
-  "projectFilePath": "E:\\Repos\\LesJackson.net\\UserAPI\\UserAPI.csproj",
+  "projectFilePath": "E:\\Repos\\LesJackson.net\\UserApi\\UserAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MariuszJaguścik\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\MariuszJaguścik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
